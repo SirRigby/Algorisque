@@ -22,6 +22,3 @@ This repo is open to contribution and modifications,<br>
    1. Implementation of the collaborative code editor.
    2. Statement of the problem, submission of the code, and checking of the code.
    3. Better UI for the App<br>
-
-<b><i>Star this Repository and you can visit to my profile and see some more Projects like this.</i></b>
-<br/>
