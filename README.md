@@ -5,13 +5,9 @@ Backend Repository - <a href="">link</a>
 
 <h2>Live Preview</h2>
 Frontend Deploy Link - <a href="https://codebuddyapp.netlify.app/">https://codebuddyapp.netlify.app/</a>
-<br/>
-<h4>IDE</h4>
-<img src='/src/assets/ideScreenshot.png' alt=''>
-<h4>Contest Watcher</h4>
-<img src='/src/assets/contestWatcherScreenshot.png' alt=''>
-<br>
+
 ## Tech Stack 
+
 **Frontend** - HTML5, CSS3, JS, Axios, TailwindCSS, Reactjs
 **Backend** - Nodejs, Expressjs, MongoDB
 **Tools** - Netlify, Heroku, Git, VS Code, Postman
