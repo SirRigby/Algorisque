@@ -1,18 +1,4 @@
 <div align="center">
-  <img src="./src/assets/codeBuddyBanner.svg" width='336px' /> <br/>
-<i>Code Buddy is your all-in-one Coding platform, which includes numerous micro-services like Code Runner, Code sharing and Contest Watcher that is intended to assist Competitive Programming enthusiasts.</i>
-<br>
-<br>
-<div><img src="https://img.shields.io/static/v1?label=TECH%20STACK&message=MERN&color=blueviolet&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?label=version&message=2.0.0&color=orange&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?label=status&message=working&color=success&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?label=test&message=passing&color=informational&style=for-the-badge"/>
-  </div>
-<br>
-</div>
-
-
-<div align="center">
 Backend Repository - <a href="">link</a>
 
 </div>
@@ -28,12 +14,12 @@ Frontend Deploy Link - <a href="https://codebuddyapp.netlify.app/">https://codeb
 <h4>Contest Watcher</h4>
 <img src='/src/assets/contestWatcherScreenshot.png' alt=''>
 <br>
-## 👩‍💻 Tech Stack 
+## Tech Stack 
 **Frontend** - HTML5, CSS3, JS, Axios, TailwindCSS, Reactjs
 **Backend** - Nodejs, Expressjs, MongoDB
 **Tools** - Netlify, Heroku, Git, VS Code, Postman
 
-<h2>📝 Contribution </h2>
+<h2>Contribution </h2>
 This repo is open to contribution and modifications,<br>
 - <b>Star</b> this Repository.<br>
 - <b>Fork</b> this Repository.<br>
@@ -43,7 +29,7 @@ This repo is open to contribution and modifications,<br>
 - Create <b>Pull Request to this Repository</b>.<br>
 
 
-## ⏳ Future Scope
+## Future Scope
     
    1. Implementation of the collaborative code editor.
    2. Statement of the problem, submission of the code, and checking of the code.
