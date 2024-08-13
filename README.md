@@ -1,8 +1,3 @@
-<div align="center">
-Backend Repository - <a href="">link</a>
-
-</div>
-
 <h2>Live Preview</h2>
 Frontend Deploy Link - <a href="https://codebuddyapp.netlify.app/">https://codebuddyapp.netlify.app/</a>
 
