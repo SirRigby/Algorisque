@@ -4,7 +4,9 @@ Frontend Deploy Link - <a href="https://codebuddyapp.netlify.app/">https://codeb
 ## Tech Stack 
 
 **Frontend** - HTML5, CSS3, JS, Axios, TailwindCSS, Reactjs
+
 **Backend** - Nodejs, Expressjs, MongoDB
+
 **Tools** - Netlify, Heroku, Git, VS Code, Postman
 
 <h2>Contribution </h2>
